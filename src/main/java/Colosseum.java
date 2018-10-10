@@ -20,7 +20,7 @@ public class Colosseum {
     /**
      * The maximum number of rounds we will let the Pokemon battle.
      */
-    static final int MAX_NUM_ROUNDS = 10000;
+    static final int MAX_NUM_ROUNDS = 10;
 
     /**
      * The first Pokemon we will be fighting.
